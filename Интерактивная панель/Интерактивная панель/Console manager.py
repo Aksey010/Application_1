@@ -92,6 +92,3 @@ while True:
 
     elif choice == '12':
         break
-
-    else:
-        print('Введено неверное значение')
